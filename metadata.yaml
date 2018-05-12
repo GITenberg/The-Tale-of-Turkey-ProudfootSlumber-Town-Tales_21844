@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1842
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21844#The-Tale-of-Turkey-ProudfootSlumber-Town-Tales
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-06-16'
 gutenberg_type: Text
